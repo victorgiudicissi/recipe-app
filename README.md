@@ -1,6 +1,6 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/victorgiudicissi/recipe-app.svg?style=svg)](https://app.circleci.com/pipelines/github/victorgiudicissi/recipe-app)
+[![CircleCI](https://circleci.com/gh/victorgiudicissi/recipe-app.svg?style=svg)](https://circleci.com/gh/victorgiudicissi/recipe-app)
 
-[![codecov](https://codecov.io/gh/springframeworkguru/spring5-reactive-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-reactive-mongo-recipe-app)
+[![codecov](https://codecov.io/gh/victorgiudicissi/recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/victorgiudicissi/recipe-app)
 
 # spring5-reactive-mongo-recipe-app
 Reactive Recipe Application Using MongoDB

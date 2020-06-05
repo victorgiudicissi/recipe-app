@@ -48,7 +48,6 @@ public class UnitOfMeasureServiceImplTest {
         //when
         List<UnitOfMeasureCommand> commands = service.listAllUoms().collectList().block();
 
-        //then
         assertEquals(2, commands.size());
         verify(unitOfMeasureRepository, times(1)).findAll();
     }

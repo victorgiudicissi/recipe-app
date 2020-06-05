@@ -16,6 +16,7 @@ import java.util.List;
 import java.util.Set;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.*;
 
 public class UnitOfMeasureServiceImplTest {
@@ -49,6 +50,7 @@ public class UnitOfMeasureServiceImplTest {
 
         //then
         assertEquals(2, commands.size());
+        assertTrue(false);
         verify(unitOfMeasureRepository, times(1)).findAll();
     }
 
